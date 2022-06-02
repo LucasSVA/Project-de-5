@@ -1,0 +1,2 @@
+sur la modification  : j'écris une discription  dans le fichier etap3  et aprés  on fait add la modification en terminale
+et je commit ; et je push. 
