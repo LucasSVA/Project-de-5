@@ -1,0 +1,2 @@
+Pour créer un dépositarie, lil faut se connecter à son compte Github, 
+Dans le menu dépositarie cliquez sur le bouton "NEW"

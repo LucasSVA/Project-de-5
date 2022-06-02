@@ -1,0 +1,2 @@
+To create a repositarie, you need to connect to your GitHub account,
+and in the menu "Depositarie" you have to click on the "NEW" button.
