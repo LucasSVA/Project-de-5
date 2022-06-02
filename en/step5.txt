@@ -1,0 +1,2 @@
+Pull means that we are going to update the modifications made by the collaborators of the project on his workstation. To do this, we write "git pull".
+Then we follow the add, commit and push steps.
