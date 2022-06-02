@@ -1,0 +1,2 @@
+Pull signifie qu'on va mettre à jour les modifications faites par les collaborateurs du projet sur son poste. Pour se faire, on écrit "git pull".
+Ensuite on suit les étapes add, commit et push.
