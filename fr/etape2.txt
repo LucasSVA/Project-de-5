@@ -1,0 +1,1 @@
+Pour clone un repo, il suffit de copier le lien de repo partagé dans le terminal précédé de: git clone (+ lien)
